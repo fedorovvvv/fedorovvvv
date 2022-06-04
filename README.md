@@ -23,7 +23,7 @@ There are too many of them.. As soon as there is time, I will definitely add the
 - projects: 67+
 - HTML-CSS: 80%
 - Frontend: 20%
-**_everything is relative_**🤝
+___everything is relative___🤝
 
 Over the past 3 years, I have completely gone into **🐣frontend-development**. So, all the projects in this block will relate specifically to her
 **HTML + CSS** projects have accumulated too much for almost 5 years (I'm similar to **Yoda** in this👾) => Unfortunately, I won't be publishing them any time soon.🥲
