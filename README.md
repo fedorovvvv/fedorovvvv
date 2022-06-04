@@ -20,9 +20,9 @@ Write to me if you find out🥲
 There are too many of them.. As soon as there is time, I will definitely add them
 
 #### Statistics🗓
--projects: 67+
--HTML-CSS: 80%
--Frontend: 20%
+- projects: 67+
+- HTML-CSS: 80%
+- Frontend: 20%
 **_everything is relative_**🤝
 
 Over the past 3 years, I have completely gone into **🐣frontend-development**. So, all the projects in this block will relate specifically to her
