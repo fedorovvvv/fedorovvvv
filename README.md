@@ -8,7 +8,7 @@
 #### Trusted technologies:✍️
 
 - 🚀 Svelte(😍), React, Redux
-- 🌐 TypeScript(my love), JavaScript
+- 🌐 TypeScript(my love💙), JavaScript
 - 🛠️ Vite, Webpack, Gulp
 - 🚦 Git
 - 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
@@ -26,4 +26,4 @@ There are too many of them.. As soon as there is time, I will definitely add the
 **_everything is relative_**🤝
 
 Over the past 3 years, I have completely gone into **🐣frontend-development**. So, all the projects in this block will relate specifically to her
-**HTML + CSS** projects have accumulated too much for almost 5 years. (I'm similar to **Yoda** in this👾)
+**HTML + CSS** projects have accumulated too much for almost 5 years (I'm similar to **Yoda** in this👾) => Unfortunately, I won't be publishing them any time soon.🥲
