@@ -12,6 +12,7 @@
 - 🛠️ Vite, Webpack, Gulp
 - 🚦 Git
 - 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
+- 🛎 Jest
 
 ## Who am I👾
 Write to me if you find out🥲
