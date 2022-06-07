@@ -8,7 +8,7 @@
 ### Trusted technologies:✍️
 
 - 🚀 Svelte(😍), React, Redux
-- 🌐 TypeScript(my love💙), JavaScript
+- 🔭 TypeScript(my love💙), JavaScript
 - 🛠️ Vite, Webpack, Gulp
 - 🚦 Git
 - 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
