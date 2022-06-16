@@ -10,7 +10,7 @@
 - 🚀 Svelte(😍), React, Redux
 - 🔭 TypeScript(my love💙), JavaScript
 - 🛠️ Vite, Webpack, Gulp
-- 🚦 Git
+- 🚦 Git, Git Actions
 - 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
 - 🛎 Jest
 
