@@ -21,9 +21,9 @@ Write to me if you find out🥲
 There are too many of them.. As soon as there is time, I will definitely add them
 
 #### Statistics🗓
-- projects: 67+
-- HTML-CSS: 80%
-- Frontend: 20%
+- projects: 68+
+- HTML-CSS: 70%
+- Frontend: 30%
 
 ___everything is relative___ 🤝
 
