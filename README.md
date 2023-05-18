@@ -1,16 +1,27 @@
-### Hi there 👋
+<div id="header"align="center">
+  <img src="https://media.giphy.com/media/l3fzBebtPNI1dTlC0/giphy-downsized.gif" width="150" style='border-radius: 20px; overflow:hidden'/>
+  <h2 align="center">Leonardo re Vinci</h2>
+</div>
 
-<!--
-**fedorovvvv/fedorovvvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm a front-end developer 🛎️
 
-Here are some ideas to get you started:
+### Trusted technologies: ✍️     
+   
+- 🚀 Svelte, SvelteKit, React       
+- 🔭 TypeScript, JavaScript, NodeJs      
+- 🛠️ Vite, Webpack, Rollup, Gulp       
+- 🚦 Git, CI/CD, Docker   
+- 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...   
+- 🛎 Jest  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who am I 👾
+Write to me if you find out🥲  
+
+## Major Projects 🌟
+There are too many of them.. As soon as there is time, I will definitely add them   
+But now I'm working on [Cue](https://twitter.com/Cue_Business) 
+
+#### Statistics🗓
+![Codewars](https://www.codewars.com/users/Fedorovvvvv/badges/large)  
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=fedorovvvv&count_private=true&theme=graywhite&showicons=true)]()  
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fedorovvvv&langs_count=5&theme=graywhite)]()
