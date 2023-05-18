@@ -1,5 +1,5 @@
 <div id="header"align="center">
-  <img src="https://media.giphy.com/media/l3fzBebtPNI1dTlC0/giphy-downsized.gif" width="200" style='border-radius: 20px; overflow:hidden'/>
+  <img src="https://media.giphy.com/media/l3fzBebtPNI1dTlC0/giphy-downsized.gif" width="160" style='border-radius: 20px; overflow:hidden'/>
   <h2 align="center">Leonardo re Vinci</h2>
 </div>
 
