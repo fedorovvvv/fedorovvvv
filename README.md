@@ -5,17 +5,17 @@
 
 # I'm a front-end developer 🛎️
 
-### Trusted technologies: ✍️     
+### Trusted technologies: ✍️
    
-- 🚀 Svelte, SvelteKit, React       
-- 🔭 TypeScript, JavaScript, NodeJs      
-- 🛠️ Vite, Webpack, Rollup, Gulp       
-- 🚦 Git, CI/CD, Docker   
-- 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...   
-- 🛎 Jest  
+- 🚀 Svelte, SvelteKit, React    
+- 🔭 TypeScript, JavaScript, NodeJs
+- 🛠️ Vite, Webpack, Rollup, Gulp,
+- 🚦 Git, CI/CD, Docker
+- 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
+- 🛎 Jest, Mocha
 
 ## Who am I 👾
-Write to me if you find out🥲  
+Write to me if you find out🥲
 
 ## Major Projects 🌟
 There are too many of them.. As soon as there is time, I will definitely add them   
