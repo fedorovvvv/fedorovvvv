@@ -6,7 +6,7 @@
 # I'm a front-end developer 🛎️
 
 ### Trusted technologies: ✍️
-   
+    
 - 🚀 Svelte, SvelteKit, React    
 - 🔭 TypeScript, JavaScript, NodeJs
 - 🛠️ Vite, Webpack, Rollup, Gulp,
