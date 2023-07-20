@@ -13,6 +13,7 @@
 - 🚦 Git, CI/CD, Docker
 - 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
 - 🛎 Jest, Mocha
+- 📽️ Grafana, Sentry
 
 ## Who am I 👾
 Write to me if you find out🥲
