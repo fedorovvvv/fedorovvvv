@@ -7,13 +7,13 @@
 
 ### Trusted technologies: ✍️
     
-- 🚀 Svelte, SvelteKit, React    
+- 🚀 Svelte, SvelteKit, React, Redux/Zustand, Nest.js
 - 🔭 TypeScript, JavaScript, NodeJs
 - 🛠️ Vite, Webpack, Rollup, Gulp,
 - 🚦 Git, CI/CD, Docker
 - 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
-- 🛎 Jest, Mocha
-- 📽️ Grafana, Sentry
+- ☕️ Jest, Mocha, Vitest
+- 🔔 Grafana, Sentry
 
 ## Who am I 👾
 Write to me if you find out🥲
