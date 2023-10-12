@@ -25,4 +25,4 @@ But now I'm working on [Cue](https://twitter.com/Cue_Business)
 ### Statistics🗓
 ![Codewars](https://www.codewars.com/users/Fedorovvvvv/badges/large)
 
-<img src="https://github-readme-stats.vercel.app/api?username=fedorovvvv&show_icons=true&disable_animations=false&include_all_commits=true&rank_icon=github&text_color=ffffff" alt="fedorovvvv" align="left" />
+<img src="https://github-readme-stats.vercel.app/api?username=fedorovvvv&show_icons=true&disable_animations=false&include_all_commits=true&rank_icon=github&text_color=ffffff&border_color=fafafa&bg_color=transparent" alt="fedorovvvv" align="left" />
