@@ -5,11 +5,11 @@
 
 # Peace 💙💛
 
-### Languages
+## Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
-### Technologies
+## Technologies
 ![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nestjs,jest,pug,sass,webpack,rollupjs,babel,gulp,svg)
-### Tools
+## Tools
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,grafana,sentry,vercel,netlify,figma,ps,blender,ai)
 
 ## Who am I 👾
