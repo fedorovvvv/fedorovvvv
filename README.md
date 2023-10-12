@@ -25,5 +25,4 @@ But now I'm working on [Cue](https://twitter.com/Cue_Business)
 ### Statistics🗓
 ![Codewars](https://www.codewars.com/users/Fedorovvvvv/badges/large)
 
-![](https://raw.githubusercontent.com/fedorovvvv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/fedorovvvv/github-stats/master/generated/languages.svg#gh-dark-mode-only)
