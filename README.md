@@ -3,17 +3,14 @@
   <h2 align="center">Leonardo re Vinci</h2>
 </div>
 
-# I'm a front-end developer 🛎️
+# Peace 💙💛
 
-### Trusted technologies: ✍️
-    
-- 🚀 Svelte, SvelteKit, React, Redux/Zustand, Nest.js
-- 🔭 TypeScript, JavaScript, NodeJs
-- 🛠️ Vite, Webpack, Rollup, Gulp,
-- 🚦 Git, CI/CD, Docker
-- 📺 HTML (pug🐶), CSS (sass🦑) and many, many things...
-- ☕️ Jest, Mocha, Vitest
-- 🔔 Grafana, Sentry
+### Languages
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
+### Technologies
+![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nestjs,jest,pug,sass,webpack,rollupjs,babel,gulp,svg)
+### Tools
+![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,grafana,sentry,vercel,netlify,figma,ps,blender,ai)
 
 ## Who am I 👾
 Write to me if you find out🥲
