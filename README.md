@@ -24,4 +24,5 @@ But now I'm working on [Cue](https://twitter.com/Cue_Business)
 
 #### Statistics🗓
 ![Codewars](https://www.codewars.com/users/Fedorovvvvv/badges/large)  
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fedorovvvv&langs_count=5&theme=graywhite)]()
+![](https://raw.githubusercontent.com/fedorovvvv/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fedorovvvv/github-stats/master/generated/languages.svg#gh-dark-mode-only)
