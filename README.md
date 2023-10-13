@@ -5,17 +5,17 @@
 
 # Peace 💙💛
 
-## Languages
+## 🎸 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
-## Technologies
+## 🪄 Technologies
 ![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nestjs,jest,pug,sass,webpack,rollupjs,babel,gulp,svg)
-## Tools
+## 🕹️ Tools
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,grafana,sentry,vercel,netlify,figma,ps,blender,ai)
 
-## Who am I 👾
+## 👾 Who am I
 Write to me if you find out🥲
 
-## Major Projects 🌟
+## 🌟 Major Projects
 There are too many of them.. As soon as there is time, I will definitely add them   
 But now I'm working on [Cue](https://twitter.com/Cue_Business) 
 
