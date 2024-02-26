@@ -8,7 +8,7 @@
 ## 🎸 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
 ## 🪄 Technologies
-![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nestjs,jest,pug,sass,webpack,rollupjs,babel,gulp)
+![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nestjs,jest,vitest,pug,sass,webpack,rollupjs,babel,gulp)
 ## 🕹️ Tools
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,grafana,sentry,vercel,netlify,figma,ps,blender,ai)
 
