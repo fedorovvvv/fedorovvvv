@@ -17,7 +17,7 @@ Write to me if you find out🥲
 
 ## 🌟 Major Projects
 There are too many of them.. As soon as there is time, I will definitely add them   
-But now I'm working on [Cue](https://twitter.com/Cue_Business) 
+But now I'm working on Telespace
 
 ### Statistics🗓
 
