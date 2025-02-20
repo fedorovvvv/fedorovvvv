@@ -11,14 +11,3 @@
 ![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nextjs,solidjs,styledcomponents,nestjs,jest,vitest,pug,sass,webpack,rollupjs,babel,gulp)
 ## 🕹️ Tools
 ![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,grafana,sentry,vercel,netlify,figma,ps,blender,ai)
-
-## 👾 Who am I
-Write to me if you find out🥲
-
-## 🌟 Major Projects
-There are too many of them.. As soon as there is time, I will definitely add them   
-But now I'm working on Telespace
-
-### Statistics🗓
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fedorovvvv&show_icons=true&disable_animations=false&include_all_commits=true&rank_icon=github&theme=graywhite&layout=compact&card_width=500" alt="fedorovvvv" align="left" />
