@@ -6,8 +6,8 @@
 # Peace and Love 💙💛
 
 ## 🎸 Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css)
+![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,go,sql)
 ## 🪄 Technologies
-![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,vite,react,redux,nextjs,solidjs,styledcomponents,nestjs,jest,vitest,pug,sass,webpack,rollupjs,babel,gulp)
+![Technologies](https://skillicons.dev/icons?i=svelte,nodejs,react,redux,nextjs,vue,pinia,nuxtjs,solidjs,vite,webpack,styledcomponents,materialui,nestjs,graphql,jest,vitest,prisma,sequelize,mongodb,postgres,rabbitmq,redis,kafka,pug,sass,rollupjs,babel,gulp)
 ## 🕹️ Tools
-![Tools](https://skillicons.dev/icons?i=docker,git,github,githubactions,postman,grafana,sentry,vercel,netlify,figma,ps,blender,ai)
+![Tools](https://skillicons.dev/icons?i=docker,kubernetes,terraform,git,github,githubactions,gitlab,postman,grafana,sentry,vercel,netlify,npm,pnpm,figma,ps,blender,ai,kali)
