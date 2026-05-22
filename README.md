@@ -3,7 +3,7 @@
   <h2 align="center">Leonardo re Vinci</h2>
 </div>
 
-# Peace and Love 💙💛
+# Peace and Love 
 
 ## 🎸 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,go,sql)
