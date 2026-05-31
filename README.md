@@ -6,7 +6,7 @@
 # Peace and Love 
 
 ## 🎸 Languages
-![Languages](https://skillicons.dev/icons?i=js,ts,html,css,py,go,sql)
+![Languages](https://skillicons.dev/icons?i=js,ts,py,go,sql)
 ## 🪄 Technologies
 ![Technologies](https://skillicons.dev/icons?i=svelte,react,vue,nextjs,nuxtjs,solidjs,redux,pinia,rxjs,nodejs,nestjs,vite,webpack,gulp,rollupjs,babel,styledcomponents,materialui,graphql,jest,vitest,prisma,sequelize,mongodb,postgres,rabbitmq,redis,kafka,pug,sass)
 ## 🕹️ Tools
