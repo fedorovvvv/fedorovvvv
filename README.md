@@ -5,6 +5,8 @@
 
 # Peace and Love 
 
+# Nothing below that matters anymore, right?
+
 ## 🎸 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,py,go,sql)
 ## 🪄 Technologies
